@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi!, I'm Álvaro 👋
 
-<!--
-**almozz/almozz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me 
+- 🎓 **3st year Computer Science (Software Engineering) student** at UCLM in Ciudad Real, pursuing the degree 💪
+- 💻 **Building personal projects**, constanly trying to better myself
+- 📚 **Exploring new technologies**, learning ML and Deep Learning at the moment
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Analytics
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=almozz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almozz&layout=compact&langs_count=7&theme=dark"/>
+</div>
